@@ -1,0 +1,24 @@
+body{
+text-align: center;
+        background:linear-gradient( #f7cdcd 0%,#69d1b7 100%); 
+}
+.button {
+  background-color: #eb527d; 
+  border: none;
+  color: black;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+.line{
+    height:6px;
+    width:70px;
+    margin:8px auto;
+    background-color: #eb527d; 
+}
+h1{
+    font-family: inherit;
+    font-size: 40;
+}
